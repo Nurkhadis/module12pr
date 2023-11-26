@@ -31,7 +31,7 @@ namespace Module12Pr
             }
             else
             {
-                Console.WriteLine("Error: Division by zero!");
+                Console.WriteLine("Error: Division by 0!");
                 return 0;
             }
         }
